@@ -1,4 +1,4 @@
-# CB_POO
+# CuentaBanco
 
 PROGRAMA CUENTA BANCARIA EN JAVA. 
 
